@@ -24,6 +24,8 @@
 - スター数13 2015年12月時点, 2015年12月初回コミット, cocoacontrolsに掲載なし
 - Swift製
 - 見た目がいわゆるタイムライン
+- ページングではなく、純粋なスクロール
+- これをページングタイプにしたいなら、ページングコンテナを下に置きその上にこれを乗せる
 
 <img src="https://github.com/seedante/TimelineLayout/blob/master/Timeline-Layout-I-Screenshot.jpg" width="240px">
 
@@ -31,7 +33,8 @@
 #### [Timeline](https://github.com/edekhayser/Timeline)
 - スター数410 2015年12月時点, 2014年7月初回コミット, cocoacontrolsに掲載あり
 - Swift製
-- 見た目がいわゆるタイムラインだけど、一度に表示できる数は7日分程度
+- 見た目がいわゆるタイムラインだけど、一度に表示できる数は7日〜1ヶ月分程度
+- それ以上のUIView一度にaddするとなると、セルの再利用しない限り重さがでてくる。
 - ページングで7日単位で切り替えるという仕様なら、このOSSでも使えるが、365日滑らかなスクロールでという仕様は満たせない
 
 <img src="https://github.com/edekhayser/Timeline/blob/master/Screenshot.png" width="240px">
