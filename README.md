@@ -18,7 +18,7 @@
 
 ## タイムライン実装例
 
-### UICollectionViewタイプ
+### 1. UICollectionViewタイプ
 
 #### [TimelineLayout](https://github.com/seedante/TimelineLayout)
 <img src="https://github.com/seedante/TimelineLayout/blob/master/Timeline-Layout-I-Screenshot.jpg" width="280px">
@@ -31,7 +31,7 @@
 
 
 
-### UIScrollView + UIViewタイプ
+### 2. UIScrollView + UIViewタイプ
 #### [Timeline](https://github.com/edekhayser/Timeline)
 <img src="https://github.com/edekhayser/Timeline/blob/master/Screenshot.png" width="240px">
 - スター数410 2015年12月時点, 2014年7月初回コミット, cocoacontrolsに掲載あり
@@ -41,7 +41,7 @@
 - ページングで7日単位で切り替えるという仕様なら、このOSSでも使えるが、365日滑らかなスクロールでという仕様は満たせない
 
 
-### UICollectionViewタイプ 高機能
+### 3. UICollectionViewタイプ 高機能
 
 #### [INSElectronicProgramGuideLayout](https://github.com/inspace-io/INSElectronicProgramGuideLayout)
 <img src="https://raw.githubusercontent.com/inspace-io/INSElectronicProgramGuideLayout/master/Screens/screen.png" width="280px">
@@ -53,7 +53,7 @@
 
 
 
-### UICollectionViewタイプ タイルサイズが異なるもの混在
+### 4. UICollectionViewタイプ タイルサイズが異なるもの混在
 
 #### [NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView)
 <img src="https://raw.githubusercontent.com/ninjaprox/NVBnbCollectionView/master/Demo-portrait.gif" width="240px">
