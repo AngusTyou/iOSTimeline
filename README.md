@@ -27,7 +27,7 @@
 - ページングではなく、純粋なスクロール
 - これをページングタイプにしたいなら、ページングコンテナを下に置きその上にこれを乗せる
 
-<img src="https://github.com/seedante/TimelineLayout/blob/master/Timeline-Layout-I-Screenshot.jpg" width="240px">
+<img src="https://github.com/seedante/TimelineLayout/blob/master/Timeline-Layout-I-Screenshot.jpg" width="280px">
 
 ### UIScrollView + UIViewタイプ
 #### [Timeline](https://github.com/edekhayser/Timeline)
@@ -48,7 +48,7 @@
 - スクロール時のヘッダー部分固定など技術的に難しいことをしている
 - 大量データ時の工夫も入っているが、それでも量が増えてくると重い
 
-<img src="https://raw.githubusercontent.com/inspace-io/INSElectronicProgramGuideLayout/master/Screens/screen.png" width="240px">
+<img src="https://raw.githubusercontent.com/inspace-io/INSElectronicProgramGuideLayout/master/Screens/screen.png" width="280px">
 
 
 ### UICollectionViewタイプ タイルサイズが異なるもの混在
