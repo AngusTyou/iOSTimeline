@@ -21,43 +21,46 @@
 ### UICollectionViewタイプ
 
 #### [TimelineLayout](https://github.com/seedante/TimelineLayout)
+<img src="https://github.com/seedante/TimelineLayout/blob/master/Timeline-Layout-I-Screenshot.jpg" width="280px">
 - スター数13 2015年12月時点, 2015年12月初回コミット, cocoacontrolsに掲載なし
 - Swift製
 - 見た目がいわゆるタイムライン
 - ページングではなく、純粋なスクロール
 - これをページングタイプにしたいなら、ページングコンテナを下に置きその上にこれを乗せる
 
-<img src="https://github.com/seedante/TimelineLayout/blob/master/Timeline-Layout-I-Screenshot.jpg" width="280px">
+
+
 
 ### UIScrollView + UIViewタイプ
 #### [Timeline](https://github.com/edekhayser/Timeline)
+<img src="https://github.com/edekhayser/Timeline/blob/master/Screenshot.png" width="240px">
 - スター数410 2015年12月時点, 2014年7月初回コミット, cocoacontrolsに掲載あり
 - Swift製
 - 見た目がいわゆるタイムラインだけど、一度に表示できる数は7日〜1ヶ月分程度
 - それ以上のUIView一度にaddするとなると、セルの再利用しない限り重さがでてくる。
 - ページングで7日単位で切り替えるという仕様なら、このOSSでも使えるが、365日滑らかなスクロールでという仕様は満たせない
 
-<img src="https://github.com/edekhayser/Timeline/blob/master/Screenshot.png" width="240px">
-
 
 ### UICollectionViewタイプ 高機能
 
 #### [INSElectronicProgramGuideLayout](https://github.com/inspace-io/INSElectronicProgramGuideLayout)
+<img src="https://raw.githubusercontent.com/inspace-io/INSElectronicProgramGuideLayout/master/Screens/screen.png" width="280px">
 - スター数382 2015年12月時点, 2014年12月初回コミット, cocoacontrolsに掲載あり
 - Objective-C製
 - スクロール時のヘッダー部分固定など技術的に難しいことをしている
 - 大量データ時の工夫も入っているが、それでも量が増えてくると重い
 
-<img src="https://raw.githubusercontent.com/inspace-io/INSElectronicProgramGuideLayout/master/Screens/screen.png" width="280px">
+
 
 
 ### UICollectionViewタイプ タイルサイズが異なるもの混在
 
 #### [NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView)
+<img src="https://raw.githubusercontent.com/ninjaprox/NVBnbCollectionView/master/Demo-portrait.gif" width="240px">
 - スター数164 2015年12月時点, 2015年5月初回コミット, cocoacontrolsに掲載あり
 - Objective-C製
 
-<img src="https://raw.githubusercontent.com/ninjaprox/NVBnbCollectionView/master/Demo-portrait.gif" width="240px">
+
 
 ### その他は、以下を「CollectionView」で検索
 - https://www.cocoacontrols.com/search?q=collectionview
