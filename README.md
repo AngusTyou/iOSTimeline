@@ -55,7 +55,7 @@
 
 #### [NVBnbCollectionView](https://github.com/ninjaprox/NVBnbCollectionView)
 - スター数164 2015年12月時点, 2015年5月初回コミット, cocoacontrolsに掲載あり
-- Swift製
+- Objective-C製
 
 <img src="https://raw.githubusercontent.com/ninjaprox/NVBnbCollectionView/master/Demo-portrait.gif" width="240px">
 
