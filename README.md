@@ -54,7 +54,7 @@
 - スター数164 2015年12月時点, 2015年5月初回コミット, cocoacontrolsに掲載あり
 - Swift製
 
-<img src="https://github.com/ninjaprox/NVBnbCollectionView" width="240px">
+<img src="https://raw.githubusercontent.com/ninjaprox/NVBnbCollectionView/master/Demo-portrait.gif" width="240px">
 
 ### その他は、以下を「CollectionView」で検索
 https://www.cocoacontrols.com/search?q=collectionview
