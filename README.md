@@ -57,5 +57,5 @@
 <img src="https://raw.githubusercontent.com/ninjaprox/NVBnbCollectionView/master/Demo-portrait.gif" width="240px">
 
 ### その他は、以下を「CollectionView」で検索
-https://www.cocoacontrols.com/search?q=collectionview
-https://github.com/search?utf8=%E2%9C%93&q=collectionview
+- https://www.cocoacontrols.com/search?q=collectionview
+- https://github.com/search?utf8=%E2%9C%93&q=collectionview
