@@ -32,4 +32,4 @@
 - Swift製
 - UICollectionView未使用。
 
-![代替テキスト](https://github.com/edekhayser/Timeline/blob/master/Screenshot.png  | width=300))
+<img src="https://github.com/edekhayser/Timeline/blob/master/Screenshot.png" width="width="320px">
